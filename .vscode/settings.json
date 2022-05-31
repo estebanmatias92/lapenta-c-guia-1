@@ -1,3 +1,8 @@
 {
-    "makefile.extensionOutputFolder": "./.vscode"
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "exceptions.h": "c",
+        "ejercicio-01.h": "c",
+        "ejercicios.h": "c"
+    }
 }
