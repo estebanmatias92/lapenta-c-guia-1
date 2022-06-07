@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <string.h>
-//#include "./lib/exceptions.h"
-#include "./include/ejercicios.h"
+#include "../../../include/core/exercises/ejercicios.h"
 
-void ejercicio_01() {
+void ejercicio_01() 
+{
     printf("Variable Name -int MiProblema-       is VALID\n");
     printf("Variable Name -int Break-            is VALID\n");
     printf("Variable Name -int Registro-         is VALID\n");

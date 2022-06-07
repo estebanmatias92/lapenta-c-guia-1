@@ -1,3 +1,5 @@
+#define EJERCICIOS_DIR "../../../include/core/exercises/ejercicios.h"
+
 #ifndef __EJERCICIOS__
 #define __EJERCICIOS__
 
@@ -14,5 +16,8 @@ void ejercicio_09();
 void ejercicio_10();
 void ejercicio_11();
 void ejercicio_12();
+void ejercicio_13();
+void ejercicio_14();
+void ejercicio_15();
 
 #endif

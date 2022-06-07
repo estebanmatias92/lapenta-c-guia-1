@@ -3,6 +3,7 @@
     "files.associations": {
         "exceptions.h": "c",
         "ejercicio-01.h": "c",
-        "ejercicios.h": "c"
+        "ejercicios.h": "c",
+        "menu.h": "c"
     }
 }

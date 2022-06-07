@@ -1,7 +1,8 @@
 #include <stdio.h>
-#include "./include/ejercicios.h"
+#include "../../../include/core/exercises/ejercicios.h"
 
-void ejercicio_02B() {
+void ejercicio_02B() 
+{
     printf("(y / z) + 1\n");
     printf("(x + y) / (x - y)\n");
     printf("((a + b) * (a + b)) * ((a + b) * (a + b))\n");

@@ -1,7 +1,8 @@
 #include <stdio.h>
-#include "./include/ejercicios.h"
+#include "../../../include/core/exercises/ejercicios.h"
 
-void ejercicio_03() {
+void ejercicio_03() 
+{
     int a = 10, b = 20;
     char c = 120, d = 'G';
 

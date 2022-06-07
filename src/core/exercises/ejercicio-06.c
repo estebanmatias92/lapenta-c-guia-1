@@ -1,16 +1,17 @@
 #include <stdio.h>
-#include "./include/ejercicios.h"
+#include "../../../include/core/exercises/ejercicios.h"
 
 const int one_minute = 60;
 const int one_hour = 3600;
 
-void ejercicio_06() {
+void ejercicio_06() 
+{
     int input = 0;
     int seconds = 0;
     int minutes = 0;
     int hours = 0;
 
-    printf("Conversor de tiempo: \n");
+    printf("Conversor unidades de tiempo: \n");
 
     do
     {
@@ -22,5 +23,5 @@ void ejercicio_06() {
     minutes = ((input % one_hour) / one_minute);
     seconds = ((input % one_hour) - (minutes * one_minute));
     
-    printf("\nH: %d   M: %d   S: %d\n", hours, minutes, seconds);
+    printf("\n%dh:%dm:%ds\n", hours, minutes, seconds);
 }
