@@ -1,4 +1,4 @@
-#define EJERCICIOS_DIR "../../../include/core/exercises/ejercicios.h"
+//#define EJERCICIOS_DIR "../../../include/core/exercises/ejercicios.h"
 
 #ifndef __EJERCICIOS__
 #define __EJERCICIOS__
